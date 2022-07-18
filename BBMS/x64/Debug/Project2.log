@@ -1,0 +1,5 @@
+﻿  Recipient.cpp
+C:\visual projects\Project2\Project2\Recipient.cpp(241,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\visual projects\Project2\x64\Debug\Project2.exe
